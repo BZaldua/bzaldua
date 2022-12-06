@@ -20,27 +20,6 @@ I'm always looking for and learning new technologies, that's the fun part.  I lo
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🌱 I’m currently learning Go and Kotlin  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
-
-
 ## Languages and Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
@@ -52,7 +31,6 @@ I'm always looking for and learning new technologies, that's the fun part.  I lo
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="25" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /></a>  
@@ -64,25 +42,14 @@ I'm always looking for and learning new technologies, that's the fun part.  I lo
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" /></a>  
 <a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="25" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>  
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" /></a>  
-<a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="25" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="25" /></a>  
-<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="25" /></a>  
-<a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="25" /></a>  
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="25" /></a>  
-<a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="25" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
-<a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="25" /></a>  
-<a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg" alt="Hadoop" height="25" /></a>  
-<a href="https://mochajs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mocha.png" alt="Mocha" height="25" /></a>  
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="25" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="25" /></a>  
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="25" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" /></a>  
-<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="25" /></a>  
+<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" /></a> 
 </div>  
 
 <br/>  
@@ -112,6 +79,3 @@ I'm always looking for and learning new technologies, that's the fun part.  I lo
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
